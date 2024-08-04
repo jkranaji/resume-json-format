@@ -1,0 +1,154 @@
+{
+    "personalDetails": {
+      "name": "Jitendra Kumar",
+      "contact": {
+        "email": "jitendrarana1133@gmail.com",
+        "phone": "+91-9368166693",
+        "linkedin": "jitendra-kumar-17b226270",
+        "github": "github.com/jkranaji"
+      }
+    },
+    "skills": {
+      "languages": [
+        "C",
+        "C++",
+        "Python",
+        "Java",
+        "JavaScript",
+        "R Programming"
+      ],
+      "frameworks": [
+        "HTML",
+        "CSS",
+        "ReactJS",
+        "NodeJS",
+        "PHP"
+      ],
+      "toolsPlatforms": [
+        "MySQL",
+        "MongoDB",
+        "Excel",
+        "Tableau",
+        "WordPress",
+        "Photoshop",
+        "VMWare",
+        "RStudio"
+      ],
+      "softSkills": [
+        "Leadership",
+        "Problem-Solving Skills",
+        "Team Player",
+        "Communication",
+        "Project Management"
+      ]
+    },
+    "projects": [
+      {
+        "title": "To-Do-List",
+        "description": "Developed a to-do list app using HTML, CSS, and JavaScript. Implemented a user interface that allows users to add, edit, and delete to-do items. Used JavaScript to add functionality to the app, such as the ability to check off completed items."
+      },
+      {
+        "title": "Tic-Tac-Toe Game",
+        "description": "Created a fully functional Tic Tac Toe game using HTML, CSS, and JavaScript. Implemented game logic to enable two-player functionality, allowing users to play against each other in real-time. Designed an engaging and visually appealing user interface with CSS styling.",
+        "startDate": "Nov 2023",
+        "endDate": "Jan 2024"
+      },
+      {
+        "title": "Library Management System",
+        "description": "Developed a comprehensive library management system using C++ from scratch. Designed an intuitive user interface allowing librarians to manage book inventory, borrower records, and administrative tasks. Implemented features such as book search, check-in/check-out functionality, fine calculation, and user authentication."
+      },
+      {
+        "title": "Login Registration Form",
+        "description": "Created a login/signup system in C++ that can handle many users at once using threads. Made sure passwords were secure by using a special method to scramble them. Used special tools to ensure data security when many users were accessing the system simultaneously."
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Winner of the Ramanujan Math Competition",
+        "level": "District",
+        "date": "June 2024"
+      },
+      {
+        "title": "Participation in DeFi AI chat Bot Hackathon",
+        "date": "June 2024"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Data Structure & Algorithm - Self-Paced (C++)",
+        "issuer": "GFG",
+        "date": "2020"
+      },
+      {
+        "title": "Web Framework Full Stack",
+        "issuer": "Udemy",
+        "date": "2024"
+      },
+      {
+        "title": "Complete HTML, CSS & JavaScript",
+        "issuer": "Udemy",
+        "date": "2024"
+      },
+      {
+        "title": "SQL",
+        "issuer": "Hacker Rank",
+        "date": "2024"
+      },
+      {
+        "title": "Introduction to MongoDB",
+        "issuer": "MongoDB",
+        "date": "2024"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "field": "Computer Science and Engineering",
+        "institution": "Lovely Professional University",
+        "cgpa": "7.24",
+        "yearOfGraduation": "2023",
+        "favoriteCourses": [
+          "Object Oriented Programming",
+          "Data Structures",
+          "Analysis of Algorithms"
+        ]
+      },
+      {
+        "degree": "Intermediate",
+        "institution": "Jawahar Navodaya Vidyalaya",
+        "percentage": "83.2%",
+        "yearOfGraduation": "2023",
+        "favoriteCourses": [
+          "Physics",
+          "Chemistry",
+          "Mathematics"
+        ]
+      },
+      {
+        "degree": "Matriculation",
+        "institution": "Jawahar Navodaya Vidyalaya",
+        "percentage": "87%",
+        "yearOfGraduation": "2024"
+      }
+    ],
+    "locations": [
+      {
+        "city": "Punjab",
+        "state": "India",
+        "startDate": "August 2021"
+      },
+      {
+        "city": "Sambhal",
+        "state": "Uttar Pradesh",
+        "startDate": "April 2018",
+        "endDate": "March 2020"
+      },
+      {
+        "city": "Sambhal",
+        "state": "Uttar Pradesh",
+        "startDate": "April 2016",
+        "endDate": "March 2018"
+      }
+    ]
+  }
+  
